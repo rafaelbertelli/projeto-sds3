@@ -36,3 +36,7 @@ body {
 .text-primary {
   color: var(--color-primary) !important;
 }
+
+.pagination {
+  justify-content: center;
+}
